@@ -1,3 +1,4 @@
-# University of Southampton -MSc Project
+# MSc project - University of Southampton
+## RISC-V processor for education
 
 
